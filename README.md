@@ -7,3 +7,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 3 projects
 - 🌱 I’m currently learning Software Development, Data Science, and CyberSecuirty
 
+I will share my projects as it gets ready
