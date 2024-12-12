@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**ti2ni1m/Ti2ni1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Manan Bhatia aka Ti2ni1m. 
 
 Here are some ideas to get you started:
 
